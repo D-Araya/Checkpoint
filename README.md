@@ -1,2 +1,2 @@
 # Checkpoint
-Repo actividad checkpoint
+Daniel Araya
